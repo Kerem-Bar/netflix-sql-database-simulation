@@ -14,14 +14,15 @@ The system delivers actionable business intelligence to drive data-backed conten
 ---
 
 ## 📁 Repository Structure
-├── netflix_project_db.sql                                           # DDL: Schema creation, table definitions & integrity constraints
-├── netflix_project_data.sql                                         # DML: Data insertion script across all 7 tables
-├── netflix_project_queries.sql                                      # SQL: 5 strategic analytical queries
-├── Netflix_ERD.png                                                  # Visual ERD architecture preview
-├── Netflix_ERD.pdf                                                  # Formal architectural ERD document
-├── Relational Databases & SQL - Netflix Database Simulation.pdf     # Full comprehensive project report
-└── README.md                                                        # Project overview and documentation
-
+```text
+├── netflix_project_db.sql                                    # DDL: Schema creation, table definitions & integrity constraints
+├── netflix_project_data.sql                                  # DML: Data insertion script across all 7 tables
+├── netflix_project_queries.sql                               # SQL: 5 strategic analytical queries
+├── Netflix_ERD.png                                           # Visual ERD architecture preview
+├── Netflix_ERD.pdf                                           # Formal architectural ERD document
+├── Relational Databases & SQL - Netflix Database Simulation.pdf # Full comprehensive project report
+└── README.md                                                 # Project overview and documentation
+```
 ---
 
 ## 🏗️ Database Architecture & Design
