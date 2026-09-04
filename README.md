@@ -64,6 +64,12 @@ SOURCE netflix_project_db.sql;
 
 2. **Populate Mock Dataset:**
 ```sql
+---
+
+## 👤 Author
+
+**Kerem Bar**  
+*Master's Student in Information Sciences (Information Technology Specialization)*
 SOURCE netflix_project_data.sql;
 ```
 
