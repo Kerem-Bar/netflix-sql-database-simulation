@@ -46,8 +46,8 @@ The database is queried across 5 strategic business dimensions:
 
 1. **Cross-Sectional Preference Alignment:** Evaluates behavioral discrepancies between subscriber onboarding interest themes and actual watched genres to identify preference-consumption divergence.
 2. **Demographic Audience Profiling:** Analyzes subscriber age cohorts, session volumes, and satisfaction ratings across declared interest categories.
-3. **Production Hub Efficiency:** Benchmarks normalized viewing performance (`views_per_title`) and critical reception (>= 4.0) for Netflix Originals across international production hubs.
-4. **Episodic Catalog Performance:** Assesses catalog depth, critical reception, and streaming volume specifically across serialized television formats.
+3. **Production Hub Efficiency:** Benchmarks normalized viewing performance (`views_per_title`) and critical reception (`avg_rating >= 4.0`) for Netflix Originals across international production hubs.
+4. **Episodic Catalog Performance:** Assesses catalog depth, critical reception (`avg_rating`), and streaming volume specifically across serialized television formats.
 5. **Catalog Utilization & Dormancy Audit:** Identifies unstreamed "dormant assets" (0 views) alongside active catalog titles using `LEFT JOIN` logic to inform catalog pruning and recommendation prioritization.
 
 ---
