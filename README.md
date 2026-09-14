@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Kerem-Bar/streaming-media-knowledge-graph-llm/main/Gemini_KG.png" height="0" alt="">NETFLIX Database Simulation: SQL & Relational Design
+# <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" width="30" height="30" valign="middle"> Netflix Database and Simulation: SQL Relation Design
 
 A robust relational database system simulating core platform operations of Netflix, architected in **Third Normal Form (3NF)** using **MySQL**.
 
