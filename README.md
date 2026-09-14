@@ -1,4 +1,4 @@
-# <img src="https://fontmeme.com/permalink/260914/netflix-font-1.png" alt="Netflix" height="52" style="vertical-align: middle;"> Database Simulation: SQL & Relational Design
+# <img src="https://fontmeme.com/permalink/260914/23d7a83d7890f5c15e580e227df2f628.png" alt="Netflix" height="52" style="vertical-align: middle;"> Database Simulation: SQL & Relational Design
 
 A robust relational database system simulating core platform operations of Netflix, architected in **Third Normal Form (3NF)** using **MySQL**.
 
